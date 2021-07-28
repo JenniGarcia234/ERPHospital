@@ -1,0 +1,208 @@
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarIdentificacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPersona.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPersona.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MPersonas.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarIdentificacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPersona.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarArea.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarEmpleado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarHabitacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPiso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPuesto.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarUsuario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarArea.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarEmpleado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarFuncion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarHabitacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPiso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPuesto.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarUsuario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MEmpleado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MLocalizacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MPaciente.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MUsuario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarArea.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarEmpleado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarFuncion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarHabitacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPiso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPuesto.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarUsuario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarFuncion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarDatosComplementarios.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarDireccion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarGrado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarHorario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSueldo.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTipoIdentificacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarGrado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarHorario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarSueldo.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarTipoIdentificacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarDatosComplementarios.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarDireccion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarGrado.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarHorario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSueldo.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTipoIdentificacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarAseguradora.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarBanco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPaciente.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarParentesco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSeguro.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSituacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTarjeta.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTipoIngreso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarVisita.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarVisitante.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarAseguradora.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarBanco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPaciente.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarParentesco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarSituacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarTipoIngreso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarVisita.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarVisitante.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.HabitacionesOcupadas.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MVisitante.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarAseguradora.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarBanco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPaciente.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarParentesco.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSeguro.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSituacion.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTarjeta.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTipoIngreso.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarVisita.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarVisitante.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Ingresos.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Egresos.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.HabitacionesDisponibles.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Paciente.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Persona.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Visitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarArea.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarAseguradora.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarBanco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarDatosComplementarios.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarDireccion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarEmpleado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarFuncion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarGrado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarHabitacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarHorario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarIdentificacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPaciente.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarParentesco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPersona.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPiso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarPuesto.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSeguro.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSituacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarSueldo.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTarjeta.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTipoIdentificacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarTipoIngreso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarUsuario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarVisita.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.ActualizarVisitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Egresos.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarArea.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarAseguradora.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarBanco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarEmpleado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarFuncion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarGrado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarHabitacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarHorario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPaciente.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarParentesco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPersona.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPiso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarPuesto.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarSituacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarSueldo.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarTipoIdentificacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarTipoIngreso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarUsuario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarVisita.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarVisitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.HabitacionesDisponibles.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.HabitacionesOcupadas.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Ingresos.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MEmpleado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MLocalizacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MPaciente.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MPersonas.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MUsuario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.MVisitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Paciente.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Persona.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarArea.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarAseguradora.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarBanco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarDatosComplementarios.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarDireccion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarEmpleado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarFuncion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarGrado.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarHabitacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarHorario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarIdentificacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPaciente.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarParentesco.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPersona.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPiso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarPuesto.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSeguro.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSituacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarSueldo.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTarjeta.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTipoIdentificacion.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarTipoIngreso.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarUsuario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarVisita.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.RegistrarVisitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.Visitante.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -1,0 +1,28 @@
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\bin\Debug\CapaNegocio.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\jenyj\Downloads\ERP_HOSPITAL (3)\ERP_HOSPITAL\ERP_HOSPITAL\CapaDatos\obj\Debug\CapaDatos.pdb

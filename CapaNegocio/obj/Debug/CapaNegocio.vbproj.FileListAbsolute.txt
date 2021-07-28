@@ -1,0 +1,10 @@
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\jenyj\source\repos\ERP_HOSPITAL\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,995 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C08EB5CE-D30B-485F-9532-E37C2FAA10B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CapaPresentacion.My.MyApplication</StartupObject>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActualizarArea.Designer.vb">
+      <DependentUpon>ActualizarArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarAseguradora.Designer.vb">
+      <DependentUpon>ActualizarAseguradora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarAseguradora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarBanco.Designer.vb">
+      <DependentUpon>ActualizarBanco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarBanco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarDatosComplementarios.Designer.vb">
+      <DependentUpon>ActualizarDatosComplementarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarDatosComplementarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarDireccion.Designer.vb">
+      <DependentUpon>ActualizarDireccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarDireccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarEmpleado.Designer.vb">
+      <DependentUpon>ActualizarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarFuncion.Designer.vb">
+      <DependentUpon>ActualizarFuncion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarFuncion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarGrado.Designer.vb">
+      <DependentUpon>ActualizarGrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarGrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarHabitacion.Designer.vb">
+      <DependentUpon>ActualizarHabitacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarHabitacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarHorario.Designer.vb">
+      <DependentUpon>ActualizarHorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarHorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarIdentificacion.Designer.vb">
+      <DependentUpon>ActualizarIdentificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarIdentificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarPaciente.Designer.vb">
+      <DependentUpon>ActualizarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarParentesco.Designer.vb">
+      <DependentUpon>ActualizarParentesco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarParentesco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarPersona.Designer.vb">
+      <DependentUpon>ActualizarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarPiso.Designer.vb">
+      <DependentUpon>ActualizarPiso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarPiso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarPuesto.Designer.vb">
+      <DependentUpon>ActualizarPuesto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarPuesto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarSeguro.Designer.vb">
+      <DependentUpon>ActualizarSeguro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarSeguro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarSituacion.Designer.vb">
+      <DependentUpon>ActualizarSituacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarSituacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarSueldo.Designer.vb">
+      <DependentUpon>ActualizarSueldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarSueldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarTarjeta.Designer.vb">
+      <DependentUpon>ActualizarTarjeta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarTarjeta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarTipoIdentificacion.Designer.vb">
+      <DependentUpon>ActualizarTipoIdentificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarTipoIdentificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarTipoIngreso.Designer.vb">
+      <DependentUpon>ActualizarTipoIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarTipoIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarUsuario.Designer.vb">
+      <DependentUpon>ActualizarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarVisita.Designer.vb">
+      <DependentUpon>ActualizarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarVisitante.Designer.vb">
+      <DependentUpon>ActualizarVisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarVisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Egresos.Designer.vb">
+      <DependentUpon>Egresos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Egresos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarArea.Designer.vb">
+      <DependentUpon>EliminarArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarAseguradora.Designer.vb">
+      <DependentUpon>EliminarAseguradora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarAseguradora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarBanco.Designer.vb">
+      <DependentUpon>EliminarBanco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarBanco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarEmpleado.Designer.vb">
+      <DependentUpon>EliminarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarFuncion.Designer.vb">
+      <DependentUpon>EliminarFuncion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarFuncion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarGrado.Designer.vb">
+      <DependentUpon>EliminarGrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarGrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarHabitacion.Designer.vb">
+      <DependentUpon>EliminarHabitacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarHabitacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarHorario.Designer.vb">
+      <DependentUpon>EliminarHorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarHorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarPaciente.Designer.vb">
+      <DependentUpon>EliminarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarParentesco.Designer.vb">
+      <DependentUpon>EliminarParentesco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarParentesco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarPersona.Designer.vb">
+      <DependentUpon>EliminarPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarPiso.Designer.vb">
+      <DependentUpon>EliminarPiso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarPiso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarPuesto.Designer.vb">
+      <DependentUpon>EliminarPuesto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarPuesto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarSituacion.Designer.vb">
+      <DependentUpon>EliminarSituacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarSituacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarSueldo.Designer.vb">
+      <DependentUpon>EliminarSueldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarSueldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarTipoIdentificacion.Designer.vb">
+      <DependentUpon>EliminarTipoIdentificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarTipoIdentificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarTipoIngreso.Designer.vb">
+      <DependentUpon>EliminarTipoIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarTipoIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarUsuario.Designer.vb">
+      <DependentUpon>EliminarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarVisita.Designer.vb">
+      <DependentUpon>EliminarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarVisitante.Designer.vb">
+      <DependentUpon>EliminarVisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarVisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HabitacionesDisponibles.Designer.vb">
+      <DependentUpon>HabitacionesDisponibles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HabitacionesDisponibles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HabitacionesOcupadas.Designer.vb">
+      <DependentUpon>HabitacionesOcupadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HabitacionesOcupadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos.Designer.vb">
+      <DependentUpon>Ingresos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEmpleado.Designer.vb">
+      <DependentUpon>MEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MLocalizacion.Designer.vb">
+      <DependentUpon>MLocalizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MLocalizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPaciente.Designer.vb">
+      <DependentUpon>MPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPersonas.Designer.vb">
+      <DependentUpon>MPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MUsuario.Designer.vb">
+      <DependentUpon>MUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MVisitante.Designer.vb">
+      <DependentUpon>MVisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MVisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paciente.Designer.vb">
+      <DependentUpon>Paciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persona.Designer.vb">
+      <DependentUpon>Persona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Persona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarArea.Designer.vb">
+      <DependentUpon>RegistrarArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarAseguradora.Designer.vb">
+      <DependentUpon>RegistrarAseguradora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarAseguradora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarBanco.Designer.vb">
+      <DependentUpon>RegistrarBanco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarBanco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarDatosComplementarios.Designer.vb">
+      <DependentUpon>RegistrarDatosComplementarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarDatosComplementarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarDireccion.Designer.vb">
+      <DependentUpon>RegistrarDireccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarDireccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarEmpleado.Designer.vb">
+      <DependentUpon>RegistrarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarFuncion.Designer.vb">
+      <DependentUpon>RegistrarFuncion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarFuncion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarGrado.Designer.vb">
+      <DependentUpon>RegistrarGrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarGrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarHabitacion.Designer.vb">
+      <DependentUpon>RegistrarHabitacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarHabitacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarHorario.Designer.vb">
+      <DependentUpon>RegistrarHorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarHorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarIdentificacion.Designer.vb">
+      <DependentUpon>RegistrarIdentificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarIdentificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPaciente.Designer.vb">
+      <DependentUpon>RegistrarPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarParentesco.Designer.vb">
+      <DependentUpon>RegistrarParentesco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarParentesco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPersona.Designer.vb">
+      <DependentUpon>RegistrarPersona.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RegistrarPiso.Designer.vb">
+      <DependentUpon>RegistrarPiso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPiso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPuesto.Designer.vb">
+      <DependentUpon>RegistrarPuesto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPuesto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarSeguro.Designer.vb">
+      <DependentUpon>RegistrarSeguro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarSeguro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarSituacion.Designer.vb">
+      <DependentUpon>RegistrarSituacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarSituacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarSueldo.Designer.vb">
+      <DependentUpon>RegistrarSueldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarSueldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarTarjeta.Designer.vb">
+      <DependentUpon>RegistrarTarjeta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarTarjeta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarTipoIdentificacion.Designer.vb">
+      <DependentUpon>RegistrarTipoIdentificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarTipoIdentificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarTipoIngreso.Designer.vb">
+      <DependentUpon>RegistrarTipoIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarTipoIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarUsuario.Designer.vb">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarVisita.Designer.vb">
+      <DependentUpon>RegistrarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarVisitante.Designer.vb">
+      <DependentUpon>RegistrarVisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarVisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.vb">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visitante.Designer.vb">
+      <DependentUpon>Visitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Visitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="z2HospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>z2HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ZHospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZHospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ZZ1HospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZZ1HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ZZ2HospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZZ2HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ZZHospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZZHospitalDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ActualizarArea.resx">
+      <DependentUpon>ActualizarArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarAseguradora.resx">
+      <DependentUpon>ActualizarAseguradora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarBanco.resx">
+      <DependentUpon>ActualizarBanco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarDatosComplementarios.resx">
+      <DependentUpon>ActualizarDatosComplementarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarDireccion.resx">
+      <DependentUpon>ActualizarDireccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarEmpleado.resx">
+      <DependentUpon>ActualizarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarFuncion.resx">
+      <DependentUpon>ActualizarFuncion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarGrado.resx">
+      <DependentUpon>ActualizarGrado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarHabitacion.resx">
+      <DependentUpon>ActualizarHabitacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarHorario.resx">
+      <DependentUpon>ActualizarHorario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarIdentificacion.resx">
+      <DependentUpon>ActualizarIdentificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarPaciente.resx">
+      <DependentUpon>ActualizarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarParentesco.resx">
+      <DependentUpon>ActualizarParentesco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarPersona.resx">
+      <DependentUpon>ActualizarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarPiso.resx">
+      <DependentUpon>ActualizarPiso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarPuesto.resx">
+      <DependentUpon>ActualizarPuesto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarSeguro.resx">
+      <DependentUpon>ActualizarSeguro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarSituacion.resx">
+      <DependentUpon>ActualizarSituacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarSueldo.resx">
+      <DependentUpon>ActualizarSueldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarTarjeta.resx">
+      <DependentUpon>ActualizarTarjeta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarTipoIdentificacion.resx">
+      <DependentUpon>ActualizarTipoIdentificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarTipoIngreso.resx">
+      <DependentUpon>ActualizarTipoIngreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarUsuario.resx">
+      <DependentUpon>ActualizarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarVisita.resx">
+      <DependentUpon>ActualizarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActualizarVisitante.resx">
+      <DependentUpon>ActualizarVisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Egresos.resx">
+      <DependentUpon>Egresos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarArea.resx">
+      <DependentUpon>EliminarArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarAseguradora.resx">
+      <DependentUpon>EliminarAseguradora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarBanco.resx">
+      <DependentUpon>EliminarBanco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarEmpleado.resx">
+      <DependentUpon>EliminarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarFuncion.resx">
+      <DependentUpon>EliminarFuncion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarGrado.resx">
+      <DependentUpon>EliminarGrado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarHabitacion.resx">
+      <DependentUpon>EliminarHabitacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarHorario.resx">
+      <DependentUpon>EliminarHorario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarPaciente.resx">
+      <DependentUpon>EliminarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarParentesco.resx">
+      <DependentUpon>EliminarParentesco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarPersona.resx">
+      <DependentUpon>EliminarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarPiso.resx">
+      <DependentUpon>EliminarPiso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarPuesto.resx">
+      <DependentUpon>EliminarPuesto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarSituacion.resx">
+      <DependentUpon>EliminarSituacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarSueldo.resx">
+      <DependentUpon>EliminarSueldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarTipoIdentificacion.resx">
+      <DependentUpon>EliminarTipoIdentificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarTipoIngreso.resx">
+      <DependentUpon>EliminarTipoIngreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarUsuario.resx">
+      <DependentUpon>EliminarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarVisita.resx">
+      <DependentUpon>EliminarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarVisitante.resx">
+      <DependentUpon>EliminarVisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HabitacionesDisponibles.resx">
+      <DependentUpon>HabitacionesDisponibles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HabitacionesOcupadas.resx">
+      <DependentUpon>HabitacionesOcupadas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos.resx">
+      <DependentUpon>Ingresos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEmpleado.resx">
+      <DependentUpon>MEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MLocalizacion.resx">
+      <DependentUpon>MLocalizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPaciente.resx">
+      <DependentUpon>MPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPersonas.resx">
+      <DependentUpon>MPersonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MUsuario.resx">
+      <DependentUpon>MUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MVisitante.resx">
+      <DependentUpon>MVisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paciente.resx">
+      <DependentUpon>Paciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persona.resx">
+      <DependentUpon>Persona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarArea.resx">
+      <DependentUpon>RegistrarArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarAseguradora.resx">
+      <DependentUpon>RegistrarAseguradora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarBanco.resx">
+      <DependentUpon>RegistrarBanco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarDatosComplementarios.resx">
+      <DependentUpon>RegistrarDatosComplementarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarDireccion.resx">
+      <DependentUpon>RegistrarDireccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarEmpleado.resx">
+      <DependentUpon>RegistrarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarFuncion.resx">
+      <DependentUpon>RegistrarFuncion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarGrado.resx">
+      <DependentUpon>RegistrarGrado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarHabitacion.resx">
+      <DependentUpon>RegistrarHabitacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarHorario.resx">
+      <DependentUpon>RegistrarHorario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarIdentificacion.resx">
+      <DependentUpon>RegistrarIdentificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPaciente.resx">
+      <DependentUpon>RegistrarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarParentesco.resx">
+      <DependentUpon>RegistrarParentesco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPersona.resx">
+      <DependentUpon>RegistrarPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPiso.resx">
+      <DependentUpon>RegistrarPiso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPuesto.resx">
+      <DependentUpon>RegistrarPuesto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarSeguro.resx">
+      <DependentUpon>RegistrarSeguro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarSituacion.resx">
+      <DependentUpon>RegistrarSituacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarSueldo.resx">
+      <DependentUpon>RegistrarSueldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarTarjeta.resx">
+      <DependentUpon>RegistrarTarjeta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarTipoIdentificacion.resx">
+      <DependentUpon>RegistrarTipoIdentificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarTipoIngreso.resx">
+      <DependentUpon>RegistrarTipoIngreso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarUsuario.resx">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarVisita.resx">
+      <DependentUpon>RegistrarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarVisitante.resx">
+      <DependentUpon>RegistrarVisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visitante.resx">
+      <DependentUpon>Visitante.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HospitalDataSet.xsc">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDataSet.xss">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="z2HospitalDataSet.xsc">
+      <DependentUpon>z2HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="z2HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>z2HospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="z2HospitalDataSet.xss">
+      <DependentUpon>z2HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZHospitalDataSet.xsc">
+      <DependentUpon>ZHospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZHospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ZHospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ZHospitalDataSet.xss">
+      <DependentUpon>ZHospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZ1HospitalDataSet.xsc">
+      <DependentUpon>ZZ1HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZ1HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ZZ1HospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ZZ1HospitalDataSet.xss">
+      <DependentUpon>ZZ1HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZ2HospitalDataSet.xsc">
+      <DependentUpon>ZZ2HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZ2HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ZZ2HospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ZZ2HospitalDataSet.xss">
+      <DependentUpon>ZZ2HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZHospitalDataSet.xsc">
+      <DependentUpon>ZZHospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ZZHospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ZZHospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ZZHospitalDataSet.xss">
+      <DependentUpon>ZZHospitalDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.vbproj">
+      <Project>{4EB58DA8-28B5-4D55-8456-26BECA06822E}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.vbproj">
+      <Project>{064767B8-8D70-4BA8-BA9E-4AF82A6E7146}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
